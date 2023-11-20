@@ -10,6 +10,28 @@ The population and demographics information we used was gathered from the Census
 
 In summary, we found that the Foo Fighters had the most consistent and reasonable prices across all DMAs.  Green Day and Tim McGraw had the highest prices in the Minneapolis/St. Paul DMA, but also offered VIP packages.
 
+Analysis provided
+
+events_infoDM - Depeche Mode analysis
+events_infoFF - Foo Fighters analysis
+events_infoGD - Green Day analysis
+events_infoTM - Tim McGraw analysis
+
+events_info_M_RG - Market analysis for Denver, Los Angeles/Inglewood, Minneapolis/St. Paul and Seattle
+
+Support_Live_Music_Project1_Group4 - Presentation
+
+Output_data
+
+FigDM - Depeche Mode chart
+FigFF - Foo Fighters chart
+FigGD - Green Day chart
+FigTM - Tim McGraw chart
+
+FigDenver - Denver chart
+FigLA - Los Angeles/Inglewood chart
+FigMNSTP - Minneapolis/St. Paul chart
+FigSeattle - Seattle chart
 
 Citations:
 
